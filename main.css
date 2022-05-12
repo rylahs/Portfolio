@@ -284,11 +284,15 @@ a:focus,a:hover {
 }
 
 .project-3.load-bg .project-image {
+    
+
     background-image: url(./img/proj03/01.gif) 
 }
 
 .project-4.load-bg .project-image { 
-    background-image: url(./img/proj04/01.gif)
+    
+    
+    background-image: url(./img/proj04/001.gif)
 }
 
 .project-5.load-bg .project-image {
