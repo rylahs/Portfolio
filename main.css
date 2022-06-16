@@ -297,9 +297,11 @@ a:focus,a:hover {
 .project-5.load-bg .project-image {
     background-image: url(./img/proj05/01.gif) 
 }
+
 .project-6.load-bg .project-image { 
     background-image: url(./img/proj06/01.gif)  
 }
+
 .project-2 {
     background-color: #64d1c3 
 }
